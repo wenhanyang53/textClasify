@@ -1,0 +1,7 @@
+annoy==1.17.0
+tqdm==4.55.0
+torch==1.7.1
+sentence_transformers==2.1.0
+numpy==1.16.6
+Flask==1.1.2
+scikit_learn==1.0
